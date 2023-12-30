@@ -7,7 +7,7 @@
  
 - 🔭 I’m currently working on **Flutter Mobile Applications**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter , UI/UX **
 
 - 💬 Ask me about **Android , Flutter**
 
